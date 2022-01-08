@@ -1,17 +1,17 @@
-# asf
+# ReadMe Generator
 ## Description:
-asdf
+This application will prompt you with questions. It will then take in your answers and construct a well organized README.md file for you to attach to your projects. 
 ## Installation:
-asdf
+To use this app, you would need to clone the code, make sure you have node.js and in the terminal, start the application by typing "node index". 
 ## Usage
-asdf
+node.js inquirer
 ## Contributions
-asdf
+
 ## Tests
-asdf
+
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-MIT
+[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
+WTFPL
 ## Questions
-asdf
-asdf
+JasonVissage
+JasonVissage@yahoo.com
