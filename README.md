@@ -8,7 +8,8 @@ node.js inquirer
 ## Contributions
 
 ## Tests
-![Video Demonstration](https://watch.screencastify.com/v/56NjKn9EaXu2lO42AMux)
+https://user-images.githubusercontent.com/92236402/148667845-62d5805b-b5e8-4d05-9f17-96aeeaf34eed.mp4
+
 ## License
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 WTFPL
