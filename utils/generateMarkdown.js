@@ -10,7 +10,7 @@ const generateAllInfo = {
     } else if (license === "ISC") {
       badge =
         "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)";
-    } else if (license === "Apache") {
+    } else if (license === "Apache") { 
       badge =
         "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
     } else if (license === "WTFPL") {
