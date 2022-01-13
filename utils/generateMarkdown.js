@@ -47,8 +47,9 @@ ${data.tests}
 ${this.renderLicenseBadge(data.license)}
 ${data.license}
 ## Questions
-${data.questions}
-${data.email}
+If you have any questions, please reach out to me via email and take a look at my GitHub.
+GitHub: ${data.questions}
+Email: ${data.email}
 `;
   },
 };

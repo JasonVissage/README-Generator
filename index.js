@@ -44,13 +44,18 @@ const questions = [
     {
         type: 'input',
         name: 'questions',
-        message: 'GitHub Username:'
+        message: 'GitHub username:'
     },
     {
         type: 'input',
         name: 'email',
         message: 'Email Address:'
     },
+    // {
+    //     type: 'input',
+    //     name: 'login',
+    //     message: 'Github.com/'
+    // }
     
 ];
 
