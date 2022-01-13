@@ -10,7 +10,7 @@ const generateAllInfo = {
     } else if (license === "ISC") {
       badge =
         "[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)";
-    } else if (license === "Apache") { 
+    } else if (license === "Apache") {
       badge =
         "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
     } else if (license === "WTFPL") {
@@ -47,9 +47,9 @@ ${data.tests}
 ${this.renderLicenseBadge(data.license)}
 ${data.license}
 ## Questions
-If you have any questions, please reach out to me via email and take a look at my GitHub.
-GitHub: ${data.questions}
-Email: ${data.email}
+*If you have any questions, please reach out to me via email and take a look at my GitHub.*
+GitHub: <a href="https://github.com/${data.questions}">Github.com/${data.questions}</a>
+Email: <a href="mailto:${data.email}">${data.email}</a>
 `;
   },
 };
