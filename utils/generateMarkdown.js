@@ -35,6 +35,15 @@ const generateAllInfo = {
     return `# ${data.title}
 ## Description:
 ${data.description}
+## Table of Contents:
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributions](#contributions)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
+
 ## Installation:
 ${data.installation}
 ## Usage
